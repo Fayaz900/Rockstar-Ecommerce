@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../navbar/Navbar'
-import ProductList from '../produce-list/ProductList'
+import ProductList from '../produce-list/components/ProductList'
 
 function Home() {
   return (
